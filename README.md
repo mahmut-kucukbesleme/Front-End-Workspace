@@ -1,2 +1,2 @@
 # Front-End-Workspace
-I'm goona share my front-end studies.
+I'm gonna share my front-end studies.
